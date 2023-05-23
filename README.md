@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syed-Sarfaraz-Ahmed
-- 👀 I’m interested in Data Science, Data Analytics
-- 🌱 I’m currently learning Machine Learning, Data Science 
+- 👀 I’m interested in Data Analytics & Data Science.
+- 🌱 I’m currently learning Machine Learning, Data Science.
 - 💞️ I’m looking to collaborate on Data Science, Data Analytics, Data Management 
 - 📫 How to reach me LinkedIn - www.linkedin.com/in/sarfaraz-ahmed-017s, Gmail - syedsarfaraaz017@gmail.com
 
